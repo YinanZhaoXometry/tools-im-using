@@ -9,3 +9,6 @@ Tools and apps i'm using right now
 
 - 隐藏Dock中的finder和回收站图标（因为使用了Finder替代工具ForkLift，所以对Dock进行精简）
   - [hide-finder-trash-dock-icons](https://github.com/jesscXC/hide-finder-trash-dock-icons)
+
+- Chrome
+  - [Vimium - The Hacker's Browser](https://github.com/philc/vimium/blob/master/README.md)，全程键盘操作浏览器，非常爽
